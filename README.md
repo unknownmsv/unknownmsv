@@ -1,29 +1,38 @@
 # 👋 Hi, I’m Sina (aka unknownmsv)  
 
-### 💻 Tech Stack  
-**Languages**:  
-🐍 Python | 🦀 Rust | 📜 TypeScript | ☕ Java  
+### 🛠️ Tech Stack  
 
-**Frameworks**:  
-🌐 Nuxt.js | 🍶 Flask | ⚡ FastAPI | 🚂 Express | 🔥 PyTorch  
+| **Languages**  | **Frameworks**       | **Tools**       |
+|---------------|---------------------|----------------|
+| 🐍 Python     | 🌐 Nuxt.js          | 🐳 Docker      |
+| 🦀 Rust       | 🍶 Flask            | 🗃️ Git        |
+| 📜 TypeScript | ⚡ FastAPI          | 🐧 Linux       |
+| ☕ Java       | 🚂 Express          |                |
+|               | 🔥 PyTorch          |                |
 
-**Tools**:  
-🐳 Docker | 🗃️ Git | 🐧 Linux  
+---
+
+### 🚀 Highlighted Projects  
+- **🔒 O2Security**: *[Description/Link]* (A security-focused tool/project)  
+- **🍩 DonutDB**: *[Description/Link]* (Database-related project)  
+- **🛠️ donut-cli**: *[Description/Link]* (CLI utility for developers)  
+
+*(Add links to repos or websites under each project!)*  
+
+---
 
 ### 🌱 Currently Learning  
 📊 Data Science & Machine Learning  
 
-### 📫 How to Reach Me  
-📧 **Personal Email**: [sina@unknownmsv.ir](mailto:sina@unknownmsv.ir)  
-🏢 **Work Email**: [info@donutmsv.ir](mailto:info@donutmsv.ir)  
-🌍 **Personal Website**: [unknownmsv.ir](https://unknownmsv.ir)  
-🏢 **Company Website**: [donutmsv.ir](https://donutmsv.ir)  
-🚀 **Projects Hub**: [project.donutmsv.ir](https://project.donutmsv.ir)  
+### 📫 Reach Me  
+📧 **Personal**: [sina@unknownmsv.ir](mailto:sina@unknownmsv.ir)  
+🏢 **Work**: [info@donutmsv.ir](mailto:info@donutmsv.ir)  
+🌍 **Portfolio**: [unknownmsv.ir](https://unknownmsv.ir)  
+🏢 **Company**: [donutmsv.ir](https://donutmsv.ir)  
+🚀 **Projects**: [project.donutmsv.ir](https://project.donutmsv.ir)  
 
 ### 🌐 Socials  
-📸 [Instagram](https://instagram.com/unknownmsvv)  
-🐦 [Twitter/X](https://twitter.com/unknownmsv)  
-🎮 [Discord](https://discord.com/users/unknownmsv)  
+📸 [Instagram](https://instagram.com/unknownmsvv) | 🐦 [Twitter/X](https://twitter.com/unknownmsv) | 🎮 [Discord](https://discord.com/users/unknownmsv)  
 
 ---  
-✨ *Building things that scale—code, systems, and sometimes pancakes.*  
+*"Code. Deploy. Iterate. ☕"*  
