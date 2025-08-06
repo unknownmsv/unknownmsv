@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I’m Sina (aka unknownmsv)  
 
-<!--
-**unknownmsv/unknownmsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Tech Stack  
+**Languages**:  
+🐍 Python | 🦀 Rust | 📜 TypeScript | ☕ Java  
 
-Here are some ideas to get you started:
+**Frameworks**:  
+🌐 Nuxt.js | 🍶 Flask | ⚡ FastAPI | 🚂 Express | 🔥 PyTorch  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools**:  
+🐳 Docker | 🗃️ Git | 🐧 Linux  
+
+### 🌱 Currently Learning  
+📊 Data Science & Machine Learning  
+
+### 📫 How to Reach Me  
+📧 **Personal Email**: [sina@unknownmsv.ir](mailto:sina@unknownmsv.ir)  
+🏢 **Work Email**: [info@donutmsv.ir](mailto:info@donutmsv.ir)  
+🌍 **Personal Website**: [unknownmsv.ir](https://unknownmsv.ir)  
+🏢 **Company Website**: [donutmsv.ir](https://donutmsv.ir)  
+🚀 **Projects Hub**: [project.donutmsv.ir](https://project.donutmsv.ir)  
+
+### 🌐 Socials  
+📸 [Instagram](https://instagram.com/unknownmsvv)  
+🐦 [Twitter/X](https://twitter.com/unknownmsv)  
+🎮 [Discord](https://discord.com/users/unknownmsv)  
+
+---  
+✨ *Building things that scale—code, systems, and sometimes pancakes.*  
