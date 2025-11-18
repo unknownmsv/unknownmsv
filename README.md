@@ -32,7 +32,7 @@
 🚀 **Projects**: [project.donutmsv.ir](https://project.donutmsv.ir)  
 
 ### 🌐 Socials  
-📸 [Instagram](https://instagram.com/unknownmsvv) | 🐦 [Twitter/X](https://twitter.com/unknownmsv) | 🎮 [Discord](https://discord.com/users/unknownmsv)  
+📸 [Instagram](https://instagram.com/dreamhub.ir) | 🐦 [Twitter/X](https://twitter.com/unknownmsv) | 🎮 [Discord](https://discord.com/users/unknownmsv)  
 
 ---  
 *"Code. Deploy. Iterate. ☕"*  
